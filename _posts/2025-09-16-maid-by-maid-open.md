@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: minimal
+permalink: /Moira_Maid_by_maid_hidden/
 draft: true
 ---
+
 <div>
 <style>.tcc { display: block; }
 .tcc .msg { padding-left: 45px; padding-right: 5px; padding-bottom: 6px; position: relative; box-sizing: border-box; line-height: 1.25em; }
