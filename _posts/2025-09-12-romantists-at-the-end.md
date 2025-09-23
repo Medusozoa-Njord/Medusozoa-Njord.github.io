@@ -1,3 +1,14 @@
+---
+layout: post 
+title: 종막의 낭만주의자들
+subtitle: 트란 카인 타이 & 헤이윈 야청 
+cover-img: /assets/img/종막의_낭만주의자들.jpg
+thumbnail-img: assets/img/그저_판촉_상대가_kpc.jpg
+share-img: assets/img/그저_판촉_상대가_kpc.jpg
+tags: [무비]
+---
+
+
 <div>
 <style>.tcc { display: block; }
 .tcc .msg { padding-left: 45px; padding-right: 5px; padding-bottom: 6px; position: relative; box-sizing: border-box; line-height: 1.25em; }
