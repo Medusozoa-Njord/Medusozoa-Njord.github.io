@@ -1,3 +1,12 @@
+---
+layout: post 
+title: Made by Maid
+subtitle: 이르얀 & 아트로포스 
+cover-img: /assets/img/그저_판촉_상대가_kpc.jpg
+thumbnail-img: assets/img/그저_판촉_상대가_kpc.jpg
+share-img: assets/img/그저_판촉_상대가_kpc.jpg
+tags: [모이라]
+---
 
 <div>
 <style>.tcc { display: block; }
