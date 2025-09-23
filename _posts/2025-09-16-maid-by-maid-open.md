@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 permalink: /Moira_Maid_by_maid_hidden/
 draft: true
 ---
