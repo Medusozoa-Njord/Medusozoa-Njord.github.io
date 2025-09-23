@@ -3,8 +3,8 @@ layout: post
 title: 종막의 낭만주의자들
 subtitle: 트란 카인 타이 & 헤이윈 야청 
 cover-img: /assets/img/종막의_낭만주의자들.jpg
-thumbnail-img: assets/img/그저_판촉_상대가_kpc.jpg
-share-img: assets/img/그저_판촉_상대가_kpc.jpg
+thumbnail-img: /assets/img/종막의_낭만주의자들.jpg
+share-img: /assets/img/종막의_낭만주의자들.jpg
 tags: [무비]
 ---
 
