@@ -1,6 +1,5 @@
 ---
 layout: post
-permalink: /hidden_testlog/
 draft: true
 ---
 <div>
