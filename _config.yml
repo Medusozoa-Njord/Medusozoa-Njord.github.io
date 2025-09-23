@@ -10,6 +10,7 @@ author: Njord
 
 navbar-links:
   About: "aboutme" # 이렇게 마크다운 문서를 보여줄 수도 있고 (이 때 .md는 뺀 제목만 씁니다)
+  Tags: "tags"
   Links: 
   - Tistory: "https://my-petrichor.tistory.com/" # 이렇게 외부 링크로 이어지게 할 수도 있습니다.
   - 
