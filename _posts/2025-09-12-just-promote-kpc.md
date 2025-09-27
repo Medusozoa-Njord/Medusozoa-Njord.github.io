@@ -2,9 +2,9 @@
 layout: post 
 title: 그저 판촉 상대가 KPC
 subtitle: 트란 카인 타이 & 라온유 
-cover-img: /assets/img/그저_판촉_상대가_kpc.jpg
-thumbnail-img: /assets/img/그저_판촉_상대가_kpc.jpg
-share-img: /assets/img/그저_판촉_상대가_kpc.jpg
+cover-img: /assets/img/general/그저_판촉_상대가_kpc.jpg
+thumbnail-img: /assets/img/general/그저_판촉_상대가_kpc.jpg
+share-img: /assets/img/general/그저_판촉_상대가_kpc.jpg
 tags: [굿나잇]
 ---
 <div>
@@ -89,7 +89,7 @@ div.tcc .msg { }
 <div class="general you ch-이르 msg">행운 판정하고 시작합시다</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:19AM</span><span class="by">온유:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>운</caption>
@@ -121,7 +121,7 @@ div.tcc .msg { }
 <span class="tstamp">8:19AM</span><span class="by">이르 (GM):</span>역시 라온유님</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:19AM</span><span class="by">온유:</span>음... 잠시만요.</div>
 <div class="general ch-온유 msg">나 어떻게 말하고 다녔더라?</div>
 <div class="general you ch-이르 msg">
@@ -131,7 +131,7 @@ div.tcc .msg { }
 <div class="general you ch-이르 msg">라온유님은 라온유님이세요</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:20AM</span><span class="by">온유:</span>저는 여전히 <i>저</i>인가요? 음... 하하.</div>
 <div class="general you ch-이르 msg">
 <div class="spacer">&nbsp;</div>
@@ -152,7 +152,7 @@ div.tcc .msg { }
 <span class="tstamp">8:20AM</span><span class="by">웅앵웅쵸키포키:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">으하하하</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:21AM</span><span class="by">온유:</span>준비됐어요.</div>
 <div class="general ch-온유 msg">내 <i>코드네임</i> 부르고 시작할까요?</div>
 <div class="desc msg">
@@ -172,7 +172,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class=""> 당신은 지금 무언가의 광고를 촬영하기 위해 준비된 듯한 스튜디오에 있습니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:22AM</span><span class="by">온유:</span>어머, 불편하게... 어라? 어라?</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -185,7 +185,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">당신은 지금까지 당신의 집에 있었으니까요. 정장 같은 것도 입고 있지 않았단 말입니다!</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:23AM</span><span class="by">온유:</span>내... 내 잠옷!</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -198,7 +198,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">관찰 판정할 수 있읍니다</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:23AM</span><span class="by">온유:</span>이게 다 뭐람... (자세히 살펴본다.)</div>
 <div class="general ch-온유 msg">
 <div class="sheet-rolltemplate-coc-1">
@@ -231,7 +231,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">지금 이게 무슨 상황인가요? 쇼호스트가 되다니요?</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:24AM</span><span class="by">온유:</span>쇼... 쇼호스트?</div>
 <div class="general ch-온유 msg">...... 꿈인가?</div>
 <div class="desc msg">
@@ -246,7 +246,7 @@ div.tcc .msg { }
 <span class="tstamp">8:25AM</span><span class="by">웅앵웅쵸키포키:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">잠옷</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:25AM</span><span class="by">온유:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>SAN Roll</caption>
@@ -273,14 +273,14 @@ div.tcc .msg { }
 <span class="tstamp">8:25AM</span><span class="by">이르 (GM):</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">아 어떡해</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:25AM</span><span class="by">온유:</span>내... <b><i>내 잠옷!!!</i></b></div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">이성 1점 감소 ㅠㅠ</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:26AM</span><span class="by">온유:</span>큰맘먹고 10만원이나 주고 샀는데...!</div>
 <div class="general you ch-상사 msg">
 <div class="spacer">&nbsp;</div>
@@ -288,7 +288,7 @@ div.tcc .msg { }
 <span class="tstamp">8:26AM</span><span class="by">상사:</span> 무슨 소리를 하는 거야? 정신 안 차려? 물건 안 팔 거야?</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:26AM</span><span class="by">온유:</span>고작 잠옷에 10만원을</div>
 <div class="general ch-온유 msg">예?</div>
 <div class="general you ch-상사 msg">
@@ -306,7 +306,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">신종 납치 수법인 걸까요.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:26AM</span><span class="by">온유:</span>(황당...) 뭘 팔라는 거예요?</div>
 <div class="general you ch-상사 msg">
 <div class="spacer">&nbsp;</div>
@@ -333,7 +333,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">관찰 판정!</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:28AM</span><span class="by">온유:</span>(안에 들어 있는 게 뭔지 눈 가늘게 뜨고 본다.)</div>
 <div class="general ch-온유 msg">
 <div class="sheet-rolltemplate-coc-1">
@@ -361,7 +361,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">팔과 다리가 밧줄로 꽁꽁 묶인 채 옆으로 누워 있는 타이?</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:28AM</span><span class="by">온유:</span>......</div>
 <div class="general ch-온유 msg">타이드 타이... (풉킥)</div>
 <div class="desc msg">
@@ -392,103 +392,103 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">사방을 감싸고 있던 상자가 열리고, 타이의 모습이 완전히 드러납니다. 그저 묶여 있는 채로, 타이는 당신을 올려다봅니다.</span></div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:30AM</span><span class="by">타이:</span>......안녕하세요?</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:30AM</span><span class="by">온유:</span>왜 여기 있어요?</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">팔다리가 묶여 있지만 입이나 눈은 가려지지 않아서, 불미스럽게도 의사소통은 되는 모양입니다.</span></div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:31AM</span><span class="by">타이:</span>정신차리니까 상자 안이었어요. 아까까지 집에 있었는데...</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:31AM</span><span class="by">온유:</span>타이도요?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:32AM</span><span class="by">타이:</span><i>도</i>인 거네요...</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:32AM</span><span class="by">온유:</span>... 네!</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:32AM</span><span class="by">타이:</span>유감스럽다.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:32AM</span><span class="by">온유:</span>사실 저도... <b>진짜 아끼는 잠옷</b> 입고 뒹굴거리고 있었는데...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:33AM</span><span class="by">타이:</span>옷까지 바뀌었다고요? 이... 이 파렴치한 납치범들이...</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:33AM</span><span class="by">온유:</span>...... 어머.</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">트칸타는 잠옷 차림입니다 참고로</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:33AM</span><span class="by">온유:</span>그...</div>
 <div class="general ch-온유 msg">그 생각은 못 했는데...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:33AM</span><span class="by">타이:</span>제발요.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:33AM</span><span class="by">온유:</span>정말 파렴치하네...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:33AM</span><span class="by">타이:</span>경... 경각심을 가져주세요. (엉!)</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:34AM</span><span class="by">온유:</span>네......</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:34AM</span><span class="by">타이:</span>그나저나, 제가 <b>완판</b>되면 돌아갈 수 있을 거라는데.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:34AM</span><span class="by">온유:</span>그럼 타이가 <i>더 많이</i> 있는 거예요?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:34AM</span><span class="by">타이:</span>설... 설마요?</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">아까 그 목소리는 '판매량'이라고 말했어요.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:34AM</span><span class="by">온유:</span>......</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">여기에 있는 타이는 한 명인데, 어째서 판매량이 있을 수 있죠?</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:34AM</span><span class="by">온유:</span>원래...</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">지능 판정할 수 있슨니다</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:35AM</span><span class="by">온유:</span>원래 불길한 예감은 다 맞는다고 해요.</div>
 <div class="general ch-온유 msg">
 <div class="sheet-rolltemplate-coc-1">
@@ -512,20 +512,20 @@ div.tcc .msg { }
 </div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:35AM</span><span class="by">타이:</span>제발요.</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">완판되지 못한 타이의 일부는⋯ ⋯ 여기에 영원히 남는다는 건가요?</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:35AM</span><span class="by">온유:</span>아니면 혹시...</div>
 <div class="general ch-온유 msg">조...</div>
 <div class="general ch-온유 msg"><b><i>조각조각 땃땃따?!</i></b></div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:36AM</span><span class="by">타이:</span><b><i>꺄아아악!!</i></b></div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -538,7 +538,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">온유가 팔아야 하는 것은 타이의 팔, 다리, 몸통, 머리입니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:37AM</span><span class="by">온유:</span>(이런 현실이 있다고?)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -552,7 +552,7 @@ div.tcc .msg { }
 <span class="tstamp">8:37AM</span><span class="by">이르 (GM):</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">아무거나 자유롭게 하면됩니다</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:38AM</span><span class="by">온유:</span>엇... 아...</div>
 <div class="general ch-온유 msg">나...</div>
 <div class="general ch-온유 msg"><b>날이면 날마다 오는 게 아닙니다!</b></div>
@@ -560,11 +560,11 @@ div.tcc .msg { }
 <div class="general ch-온유 msg">자자, 여기 있는 <i>트란 카인 타이</i>의 팔은... (눈 질끈) 자, 잘생겼습니다!</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:39AM</span><span class="by">타이:</span>... ... 아 불미스러...</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:39AM</span><span class="by">온유:</span>팔...이라도...! 잘생겨야죠!</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -581,7 +581,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">가보자고</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:39AM</span><span class="by">온유:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>설득</caption>
@@ -617,7 +617,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">그러더니, 앞의 빨간 글자에 &lt;팔, 판매 완료&gt;라는 문구가 점멸합니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:41AM</span><span class="by">온유:</span>(타이 힐끔 본다. 타이의 팔은 여전히 잘 붙어 있는가?)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -627,7 +627,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">아무래도 땃땃따는 방송 종료 후에 진행되는 모양입니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:42AM</span><span class="by">온유:</span>(가슴 졸일 뻔했다...)</div>
 <div class="general ch-온유 msg">(아?)</div>
 <div class="desc msg">
@@ -638,32 +638,32 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">아무튼, 방송은 계속 돌아가고 있습니다!</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:43AM</span><span class="by">온유:</span>그... (신선도가 머릿속에서 떠나지 않는다...)</div>
 <div class="general ch-온유 msg">다, 다다다, 다리는!</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:43AM</span><span class="by">타이:</span>(불미...)</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:43AM</span><span class="by">온유:</span>여여, 여기의 트란 카인 타이의 다리는!</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:43AM</span><span class="by">타이:</span>튼튼한 편이에요...</div>
 <div class="general you ch-타이 msg">그야 자주 걸으니까.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:44AM</span><span class="by">온유:</span>무려 신장 180센티미터에 걸맞은 튼튼하고 멋진 다리입니다!</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">아 불미스러워</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:44AM</span><span class="by">온유:</span>진짜예요.</div>
 <div class="general ch-온유 msg">타이는 키가 크답니다.</div>
 <div class="desc msg">
@@ -671,14 +671,14 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">지금은 묶여서 찌그라져 있지만요.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:45AM</span><span class="by">온유:</span>... 이렇게 구겨져 있어서 잘 티는 안 나지만.</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">준비가 됐을 때 대인기능 판정을 합니다!</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:45AM</span><span class="by">온유:</span>쫙쫙 펴 보시면 진가를 아실 수 있습니다!</div>
 <div class="general ch-온유 msg">
 <div class="sheet-rolltemplate-coc-1">
@@ -702,11 +702,11 @@ div.tcc .msg { }
 </div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:45AM</span><span class="by">타이:</span>(퍼덕퍼덕 다리 펴봄 ㅠㅠ)</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:45AM</span><span class="by">온유:</span>그렇게 못생기게 퍼덕거리지 말아요...!</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -716,7 +716,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">몇 분 더 길고ㅠㅠ 튼튼한 다리를 어필해봐도 판매 소식이 없습니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:46AM</span><span class="by">온유:</span>하...</div>
 <div class="general ch-온유 msg">어쩔 수 없지...</div>
 <div class="general ch-온유 msg">타이의 다리는 무려...!</div>
@@ -730,7 +730,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">타이밍 맞춰 멈춥니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:47AM</span><span class="by">온유:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>매혹</caption>
@@ -769,103 +769,103 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">음, 자세히 보니 좀 짱인 것 같기도.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:48AM</span><span class="by">온유:</span>(열심히 손으로 반짝반짝 효과 넣어준다.)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">&lt;다리, 판매 완료&gt;라는 글자가 머잖아 나타납니다.</span></div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:49AM</span><span class="by">타이:</span>재능 있으신데요</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:49AM</span><span class="by">온유:</span>정말요...?</div>
 <div class="general ch-온유 msg">저 지금 기 빨려요...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:49AM</span><span class="by">타이:</span>그래보이긴 해요!</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:49AM</span><span class="by">온유:</span>... 엄마 보고 싶어요...\</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:49AM</span><span class="by">타이:</span>저는 선배 보고싶네요...</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:50AM</span><span class="by">온유:</span>무서 씨랑 연락하고 지내요?</div>
 <div class="general ch-온유 msg">진짜 아무하고도 연락 안 할 것처럼 보였는데, 무서 씨...</div>
 <div class="general ch-온유 msg">이런 쪽으로 배신 당했어...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:50AM</span><span class="by">타이:</span>제가 무서 선배네에서 얹혀 지내요.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:50AM</span><span class="by">온유:</span>예?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:50AM</span><span class="by">타이:</span>(푸하하하)</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:50AM</span><span class="by">온유:</span>ㅇ</div>
 <div class="general ch-온유 msg">예?</div>
 <div class="general ch-온유 msg">ㅇㅖ?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:50AM</span><span class="by">타이:</span>그렇게 당황할 일이에요?</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:50AM</span><span class="by">온유:</span>......</div>
 <div class="general ch-온유 msg">그럼 아니에요?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:51AM</span><span class="by">타이:</span>...... 맞긴 해요!</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:51AM</span><span class="by">온유:</span>... 그렇죠?</div>
 <div class="general ch-온유 msg">그럼... ...</div>
 <div class="general ch-온유 msg">타이를 일단 계속 팔게요...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:51AM</span><span class="by">타이:</span>네... 고마워요...</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:51AM</span><span class="by">온유:</span>응...</div>
 <div class="general ch-온유 msg">여기... 타이의 몸통에는요?</div>
 <div class="general ch-온유 msg">특별한 게 있습니다!</div>
 <div class="general ch-온유 msg"><b>총에 맞은 흉터</b>가 있는 몸입니다!</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:52AM</span><span class="by">타이:</span>하.</div>
 <div class="general you ch-타이 msg">두개예요.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:52AM</span><span class="by">온유:</span>저희 아버지가 그러셨는데, 원래 흉 좀 있는 게 유기농이고 먹기 좋다고 하셨어요.</div>
 <div class="general ch-온유 msg">심지어 총상이 두 군데라고 해요.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:52AM</span><span class="by">타이:</span>아... (내가 유기농 감자?)</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:52AM</span><span class="by">온유:</span>이거 완전 사셔야겠죠?</div>
 <div class="general ch-온유 msg">지금 놓치면 후회하실 것 같... 같죠?!</div>
 <div class="desc msg">
@@ -881,7 +881,7 @@ div.tcc .msg { }
 <span class="tstamp">8:53AM</span><span class="by">이르 (GM):</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">크하학</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:53AM</span><span class="by">온유:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>말재주</caption>
@@ -935,29 +935,29 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">유기농 몸통? 이거 흔치 않은데. 맞아맞아, 요즘 총상이 유행이래...</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:55AM</span><span class="by">온유:</span>(진짜 무슨 소리야... 아찔하다.)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">곧 &lt;몸통, 판매 완료&gt;라는 문구가 켜집니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:55AM</span><span class="by">온유:</span>타이... 이제 얼굴...................... 팝시다.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:56AM</span><span class="by">타이:</span>.........네...!</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:56AM</span><span class="by">온유:</span>......</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">이딴 머리가 팔릴 수 있을까? 불미스러운 일입니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:56AM</span><span class="by">온유:</span><b>빨간 머리</b>입니다!</div>
 <div class="general you ch-이르 msg">
 <div class="spacer">&nbsp;</div>
@@ -965,7 +965,7 @@ div.tcc .msg { }
 <span class="tstamp">8:56AM</span><span class="by">이르 (GM):</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">커헉</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:56AM</span><span class="by">온유:</span>속에서는 검은색 머리카락이 나와요!</div>
 <div class="general ch-온유 msg">와! 투톤... 시... <b><i>시크릿 투톤</i></b>입니다!</div>
 <div class="desc msg">
@@ -973,7 +973,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">그야말로 겉적속흑!</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:57AM</span><span class="by">온유:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>설득</caption>
@@ -999,7 +999,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">웅성웅성... 저런 것도 시크릿 투톤이라고 부르나? 웅성웅성... 누가바에 가까운듯. 웅성웅성...</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:57AM</span><span class="by">온유:</span>(자기가 말했는데도 웃겨서 거의 울고 있다...)</div>
 <div class="general ch-온유 msg">그럼 다른 부분을 살펴보실까요?</div>
 <div class="general ch-온유 msg">머리가 아주 깁니다.</div>
@@ -1008,19 +1008,19 @@ div.tcc .msg { }
 <div class="general ch-온유 msg">데리고 사는 얼굴!</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:58AM</span><span class="by">타이:</span>끝내주시긴 해요. (end의 의미로)</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:58AM</span><span class="by">온유:</span>진짜 끝내주긴(over의 뜻.) 했어요, 그 능력.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">8:59AM</span><span class="by">타이:</span>아름다우시지...</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">8:59AM</span><span class="by">온유:</span>무섭던데요...</div>
 <div class="general ch-온유 msg">아무튼.</div>
 <div class="general ch-온유 msg">빨갛고 노랗고 까맣기까지 한 머리입니다!</div>
@@ -1061,15 +1061,15 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">그러니까 임자가 있다고? 술렁술렁... 소송 오면 어떡할 건데... 술렁술렁...</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:00AM</span><span class="by">온유:</span>소송... 무서 씨가 해줄까요?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:00AM</span><span class="by">타이:</span>... 안 하실 듯.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:00AM</span><span class="by">온유:</span>그렇다고 합니다, 여러분!</div>
 <div class="general ch-온유 msg">
 <div class="sheet-rolltemplate-coc-1">
@@ -1108,126 +1108,126 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">&lt;타이 완판. 방송 종료.&gt;</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:03AM</span><span class="by">온유:</span>타이! 우리 성공했어요!</div>
 <div class="general ch-온유 msg">(잠시만, 좋은 건가?)</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:03AM</span><span class="by">타이:</span>와!</div>
 <div class="general you ch-타이 msg">어쨌거나 팔다리몸통머리 중 하나 없는 시체로 발견되진 않겠죠.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:03AM</span><span class="by">온유:</span>......</div>
 <div class="general ch-온유 msg">말을 왜 꼭 그렇게 해요!</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:03AM</span><span class="by">타이:</span>네... 죄송...</div>
 <div class="general you ch-타이 msg">... 선배네 집에 도착하면 연락할게요!</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:04AM</span><span class="by">온유:</span>... 네!</div>
 <div class="general ch-온유 msg">(갈 수 있나...?)</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:04AM</span><span class="by">타이:</span>두 달 내로 연락 없으면... 뭐, 어쩔 수 없죠.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:04AM</span><span class="by">온유:</span>...... 지금...</div>
 <div class="general ch-온유 msg">으휴! (타이 머리 꿍 쥐어박음)</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:04AM</span><span class="by">타이:</span>꺅.</div>
 <div class="general you ch-타이 msg">그래도 노력해 주셔서 감사...?해요?</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:05AM</span><span class="by">온유:</span>이걸 감사까지 받아야 할까요?</div>
 <div class="general ch-온유 msg">너무... 불미스럽다...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:06AM</span><span class="by">타이:</span>음... 뭐랄까......</div>
 <div class="general you ch-타이 msg">어떻게든 좋은 점 찾아주셨죠?</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:06AM</span><span class="by">온유:</span>그... 그렇게 되나요?</div>
 <div class="general ch-온유 msg">그런가 보네...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:06AM</span><span class="by">타이:</span>저한테 상품 가치가 있다는 걸 증명한 셈이죠...?</div>
 <div class="general you ch-타이 msg">폐급은 아니라서 다행이다!</div>
 <div class="general you ch-타이 msg">라는 거죠.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:07AM</span><span class="by">온유:</span>설마 지금까지는 폐급이라고 스스로 생각했나요?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:07AM</span><span class="by">타이:</span>흠.</div>
 <div class="general you ch-타이 msg">약간?</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:07AM</span><span class="by">온유:</span>흠...</div>
 <div class="general ch-온유 msg">(쥐어박는다)</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:07AM</span><span class="by">타이:</span>컥.</div>
 <div class="general you ch-타이 msg">어... 어째서.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:08AM</span><span class="by">온유:</span>그냥요.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:08AM</span><span class="by">타이:</span>네...</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:08AM</span><span class="by">온유:</span>집에... 무서 씨 집에 가면 연락 꼭 해요!</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:08AM</span><span class="by">타이:</span>네! 겸사겸사 온유 씨 안부도 전할게요.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:09AM</span><span class="by">온유:</span>그래요.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:09AM</span><span class="by">타이:</span>아끼는 잠옷 입고 잘 지내시는 것 같다고?</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:09AM</span><span class="by">온유:</span>하...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:09AM</span><span class="by">타이:</span>하하.</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:09AM</span><span class="by">온유:</span>웃어요?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:09AM</span><span class="by">타이:</span>죄송......</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:09AM</span><span class="by">온유:</span>그래야죠.</div>
 <div class="general ch-온유 msg">그런데 집에는 언제 어떻게 가는 거지.</div>
 <div class="desc msg">
@@ -1238,7 +1238,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">온유가 방송 종료 멘트를 한 다음입니다!</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:10AM</span><span class="by">온유:</span>...</div>
 <div class="general ch-온유 msg">(방송 종료 멘트를 잊고 있었다는 표정.)</div>
 <div class="desc msg">
@@ -1246,16 +1246,16 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">귀엽다는 듯 웃기</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:10AM</span><span class="by">온유:</span>이렇게 해서 트란 카인 타이, 완판되었습니다.</div>
 <div class="general ch-온유 msg">와! (셀프박수)</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:11AM</span><span class="by">타이:</span>와! (박수 못 쳐서 입으로 <i>짝짝짝</i> 소리 냄)</div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:11AM</span><span class="by">온유:</span>음... 음?</div>
 <div class="general ch-온유 msg">끝...을 냅시다.</div>
 <div class="general ch-온유 msg">어...</div>
@@ -1283,7 +1283,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">몸에 감긴 10만원짜리 페이보릿 잠옷의 촉감이 느껴집니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:12AM</span><span class="by">온유:</span>집이다...</div>
 <div class="general ch-온유 msg">몇 시야, 지금?</div>
 <div class="desc msg">
@@ -1291,7 +1291,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">쇼호스트 노릇을 하기 직전에서 5분도 안 지난 시간입니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:13AM</span><span class="by">온유:</span>왜지...</div>
 <div class="general ch-온유 msg">(소파에 드러눕는다...)</div>
 <div class="desc msg">
@@ -1302,118 +1302,118 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">소파에 드러누워 꿈인지 생시인지 가늠하는 동안, 핸드폰 전화 알림음이 울립니다.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:14AM</span><span class="by">온유:</span>(핸드폰을 확인한다.)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">발신인은 타이네요.</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:14AM</span><span class="by">온유:</span>와아, 국제전화...</div>
 <div class="general ch-온유 msg">여보세요?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:15AM</span><span class="by">타이:</span><i>여보세요? 온유 씨죠? 저 멀쩡히 돌아온 것 같아요!</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:15AM</span><span class="by">온유:</span>정말요? 와, 다행이다!</div>
 <div class="general ch-온유 msg">손가락 여섯 개 맞아요?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:15AM</span><span class="by">타이:</span><i>최고의 쇼호스트셨어요. 어 잠깐...</i></div>
 <div class="general you ch-타이 msg"><i>... 손가락은 원래 다섯개예요!</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:16AM</span><span class="by">온유:</span><i>왜 안 넘어가요?</i></div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:16AM</span><span class="by">타이:</span><i>저 그렇게 바보같아요?</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:16AM</span><span class="by">온유:</span>... 응.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:16AM</span><span class="by">타이:</span><i>헐.</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:16AM</span><span class="by">온유:</span>이제 알았어요?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:16AM</span><span class="by">타이:</span><i>선배가 맨날 바보같다고 하시긴 하는데 다른 사람 눈에도 바보같은 줄은 몰랐죠.</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:17AM</span><span class="by">온유:</span>무서 씨는 눈썰미 좋은 편이에요.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:17AM</span><span class="by">타이:</span><i>선배 앞에선 바보같이 굴긴 하는데... 아...</i></div>
 <div class="general you ch-타이 msg"><i>힘들다...</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:17AM</span><span class="by">온유:</span>잠깐...</div>
 <div class="general ch-온유 msg">지금 뭐라고요?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:17AM</span><span class="by">타이:</span><i>네?</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:17AM</span><span class="by">온유:</span><i>여기서 더 바보?</i></div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:17AM</span><span class="by">타이:</span><i>...너, 너무해.</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:17AM</span><span class="by">온유:</span>...</div>
 <div class="general ch-온유 msg">일단 무사하다니까 다행이에요.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:18AM</span><span class="by">타이:</span><i>네...</i></div>
 <div class="general you ch-타이 msg"><i>온유 씨도 멀쩡하게 돌아가신 것 같아서 다행이네요.</i></div>
 <div class="general you ch-타이 msg"><i>잠옷은 돌려받으셨죠?</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:18AM</span><span class="by">온유:</span>네!</div>
 <div class="general ch-온유 msg">이거 무려 10만원이나 주고 샀답니다?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:18AM</span><span class="by">타이:</span><i>와, 어른이다.</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:18AM</span><span class="by">온유:</span>엄청 보들보들하고 예쁘고... 아하하! 어른이죠.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:19AM</span><span class="by">타이:</span><i>멋지네요.</i></div>
 <div class="general you ch-타이 msg"><i>아무튼, 슬슬 끊을게요. 통화요금에 지져질 것 같아서.</i></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:19AM</span><span class="by">온유:</span>어머. 네!</div>
 <div class="general ch-온유 msg">잘 지내요.</div>
 <div class="general ch-온유 msg">안부 전해주고요.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/트칸타_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/트칸타_두상1.png" /></div>
 <span class="tstamp">9:20AM</span><span class="by">타이:</span><i>온유 씨도요! 다음엔 덜 불미스러운 일로 만나요.</i></div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -1423,7 +1423,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">다음 세션을 기대해줘~(하트)</span></div>
 <div class="general ch-온유 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img class="" src="/assets/img/라온유_두상1.png" /></div>
+<div class="avatar"><img class="" src="/assets/img/general/라온유_두상1.png" /></div>
 <span class="tstamp">9:20AM</span><span class="by">온유:</span>(전화 끊고 생각한다.)</div>
 <div class="general ch-온유 msg">...</div>
 <div class="general ch-온유 msg">던전보다 불미스러운 일이었던 것 같은데.</div>
