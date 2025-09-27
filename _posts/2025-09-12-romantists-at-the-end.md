@@ -2,9 +2,9 @@
 layout: post 
 title: 종막의 낭만주의자들
 subtitle: 트란 카인 타이 & 헤이윈 야청 
-cover-img: /assets/img/종낭만_세카.jpg
-thumbnail-img: /assets/img/종낭만_세카.jpg
-share-img: /assets/img/종낭만_세카.jpg
+cover-img: /assets/img/SC/종낭만_세카.jpg
+thumbnail-img: /assets/img/SC/종낭만_세카.jpg
+share-img: /assets/img/SC/종낭만_세카.jpg
 tags: [무비]
 ---
 
@@ -233,7 +233,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">나갈 준비를 하나요?</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:03AM</span><span class="by">야청:</span>(준비하기 전에... 밥부터 먹고)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -244,7 +244,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:04AM</span><span class="by">코라:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">아</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:05AM</span><span class="by">야청:</span>(대충 냠냠하고... 나갈 준비도 완료)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -293,7 +293,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:07AM</span><span class="by">이르 (GM):</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">아 너무 프랑스식 요리나올거같은 노래야</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:07AM</span><span class="by">야청:</span>아니, 어디서 꽃 차가 폭발이라도 했나...</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -307,7 +307,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:08AM</span><span class="by">여성:</span> 아름다우신 분, 오늘도 달콤한 하루 되세요!</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:08AM</span><span class="by">야청:</span>(반사적으로 때릴 뻔...)</div>
 <div class="general ch-야청 msg">아, 예...</div>
 <div class="desc msg">
@@ -339,14 +339,14 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">&hellip;뭐죠? 무언가가 잘못되었습니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:10AM</span><span class="by">야청:</span>내가 미친 게 아니면 세상이 아름다운 쓰레기로 가득 찬 이 상황이, 진짜 현실이라고?</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">이성 판정(1/1d2)</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:11AM</span><span class="by">야청:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>SAN Roll</caption>
@@ -407,7 +407,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:12AM</span><span class="by">코라:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">하 ㅠㅠㅠ</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:13AM</span><span class="by">야청:</span>(꽃더미 헤치면서 걷는다. 어기적...)</div>
 <div class="general ch-야청 msg">(가장 가까운... 그나마 덜 이상해 보이는 사람에게 왔다) 저기요?</div>
 <div class="general you ch-사람 msg">
@@ -416,7 +416,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:14AM</span><span class="by">사람:</span> 좋은 아침입니다! 함께 선율에 몸을 맡기지 않으실래요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:16AM</span><span class="by">야청:</span>어우, 그러고 싶은 건 아니고... 언제부터 이런 소음공해가 진행된 건지 궁금해서요?</div>
 <div class="general you ch-사람 msg">
 <div class="spacer">&nbsp;</div>
@@ -426,7 +426,7 @@ div.tcc .msg { }
 <div class="general you ch-사람 msg">이런 일이 일어나는 건, 그다지 이상한 일이 아니죠. 오히려 아주 낭만적이잖아요? 때가 된 것 뿐이에요! 우리 모두가 진정 낭만 속에 빠져들 때가!</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:18AM</span><span class="by">야청:</span>내가 듣고 싶은 노래도 아닌 게 울려 퍼지면 소음공해 맞지 않나...</div>
 <div class="general ch-야청 msg">아니, 예?</div>
 <div class="general ch-야청 msg">22세기에 갑자기 낭만 타령하는 사람을 다 보네. 무슨 낭만이요?</div>
@@ -438,14 +438,14 @@ div.tcc .msg { }
 <div class="general you ch-사람 msg"><i>오오, 칠흑 같은 검은 땅을 딛고 살아남은 숭고한 사랑이여~</i></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:21AM</span><span class="by">야청:</span>아니, 사양... 하기도 전에 시작했네</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">사람은 냅다 당신의 손을 잡고 춤 추며 노래를 부릅니다...</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:22AM</span><span class="by">야청:</span>미친 건가......</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -457,14 +457,14 @@ div.tcc .msg { }
 <div class="general ch-코라 msg"><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">ㅋㅋㅋㅋㅋ</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:22AM</span><span class="by">야청:</span>(이걸 쳐? 말아...)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">원하는대로!</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:24AM</span><span class="by">야청:</span>(3초 정도 고민하다가... 그냥 기절시켰다)</div>
 <div class="general you ch-사람 msg">
 <div class="spacer">&nbsp;</div>
@@ -472,14 +472,14 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:24AM</span><span class="by">사람:</span> 컥.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:24AM</span><span class="by">야청:</span>좋아. 숨은 잘 쉬시네. 구석에 대충 던져두고...</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">털썩... 사람은 두껍게 쌓인 꽃잎 위로 풀썩 쓰러집니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:24AM</span><span class="by">야청:</span>(꽃잎 삭삭 덮어줌)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -489,14 +489,14 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">애초에, 사람들은 각자 노래를 부르고 춤을 주느라 별로 관심도 없어보이긴 하네요.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:26AM</span><span class="by">야청:</span>세상이 이렇게 미쳐 돌아가는 건 예상해 본 적 없는데 참 곤란하네...</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">주변을 둘러볼까요?</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:27AM</span><span class="by">야청:</span>(꽃잎이랑 이상한 사람들 말고 뭐가 더 있나? 두리번...)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -513,7 +513,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:27AM</span><span class="by">타이:</span>선배!</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:27AM</span><span class="by">야청:</span>아 부담스러워... 응?</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -527,7 +527,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:27AM</span><span class="by">코라:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">그런거치곤 신나보이는데</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:27AM</span><span class="by">야청:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>정신</caption>
@@ -589,7 +589,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:29AM</span><span class="by">타이:</span>이 상황, 이상하다고 생각하시죠? 다들 낭만에 미친 것 같아요...</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:30AM</span><span class="by">야청:</span>(방금 스스로 한 생각에 잠깐 눈살을 찌푸렸다가... 금방 원래대로 돌아왔다.)</div>
 <div class="general ch-야청 msg">곱게 말하면 이상하고 제대로 말하자면 미친 거 같은데?</div>
 <div class="general you ch-타이 msg">
@@ -598,7 +598,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:31AM</span><span class="by">타이:</span>선배는 그대로여서 다행이에요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:32AM</span><span class="by">야청:</span>내가 저렇게 됐으면 더 이상 살기 싫었을 거야.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -616,7 +616,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:33AM</span><span class="by">이르 (GM):</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">ㅋㅋㅋㅋㅋㅋㅋㅋㅋ</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:34AM</span><span class="by">야청:</span>경찰들이 춤추는 꼴을 보고 싶다면야...</div>
 <div class="general ch-야청 msg">웃기긴 하겠는데? 가보자.</div>
 <div class="general you ch-타이 msg">
@@ -640,7 +640,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">꽃잎에 촛불이 옮겨붙어 타오르는데 그들은 그저 웃습니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:35AM</span><span class="by">야청:</span>와우.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -649,7 +649,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">아... 일단 불 좀 끄죠.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:36AM</span><span class="by">야청:</span>쟤들도 방화해보고 싶어서 내버려둔 거 아닐까?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -659,7 +659,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">저는 괜찮긴 한데... 아무튼.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:38AM</span><span class="by">야청:</span>내가 집이 여기만 있는 줄 아네.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -667,7 +667,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:38AM</span><span class="by">타이:</span>아...?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:39AM</span><span class="by">야청:</span>뭐... 같이 노숙하면 너는 좋은 거 아닌가?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -681,7 +681,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">이건 향기로운 악몽이나 다름없습니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:40AM</span><span class="by">야청:</span>(말은 그렇게 했어도 말리진 않고 구경한다.)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -691,7 +691,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">얼떨결에 차를 받은 타이는 그대로 꽃잎을 헤쳐 돌아옵니다...</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:41AM</span><span class="by">야청:</span>무슨 차래?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -700,7 +700,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">마실래요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:41AM</span><span class="by">야청:</span>네가 먹어보고 안 죽으면.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -712,7 +712,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:42AM</span><span class="by">코라:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">아 ㅠㅠㅠㅜㅠㅠ</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:43AM</span><span class="by">야청:</span>착하네. 어때?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -721,14 +721,14 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">음, 따듯하고요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:44AM</span><span class="by">야청:</span>(자연스럽게 가져가서 마신다.)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">따뜻하고, 달짝지근하고, 향기롭습니다. 평범한 차네요.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:45AM</span><span class="by">야청:</span>정신이 나가도 차는 제대로 탄다고? 이것도 신기하네... (홀짝홀짝... 거리다가 다 마셨다.)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -749,7 +749,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:47AM</span><span class="by">타이:</span>이대로 내리면 저녁엔 온 도시가 꽃잎에 잠기겠는 걸요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:47AM</span><span class="by">야청:</span>(다리를 움직일 때마다 꽃잎이 펑펑 솟는다...) 이건 대체 어디서 오는 거지.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -769,7 +769,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">마치 사람을 밟은 듯한&hellip;. </span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:49AM</span><span class="by">야청:</span>(살짝 흠칫했지만, 사람이면 뭐...)</div>
 <div class="general ch-야청 msg">내 발밑에 뭔가 있는데... 꺼내봐야 한다고 생각해?</div>
 <div class="general you ch-타이 msg">
@@ -779,7 +779,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">뭐 같은데요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:51AM</span><span class="by">야청:</span>이런 느낌이면 사람이려나... (꾹꾹)</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -787,7 +787,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:51AM</span><span class="by">타이:</span>꺼내는 게 좋겠네요!</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:52AM</span><span class="by">야청:</span>그래? 화이팅!</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -815,7 +815,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 10:53AM</span><span class="by">타이:</span>미쳤다.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:53AM</span><span class="by">야청:</span>어. 많이 미쳤네...</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -828,7 +828,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">충격을 받는다면? 이성 판정(0/1)</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:54AM</span><span class="by">야청:</span>다들 낭만에 미쳐서 자살 희망자가 됐다고?</div>
 <div class="general ch-야청 msg">
 <div class="sheet-rolltemplate-coc-1">
@@ -866,7 +866,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">타이가 그 사람을 살피러 다가갑니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:55AM</span><span class="by">야청:</span>(따라가서 구경은 한다)</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -910,7 +910,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">무서도 관찰/교육/의료 등 판정할 수 있습니다 ㅠㅠ</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:56AM</span><span class="by">야청:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>관찰력</caption>
@@ -961,7 +961,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">관찰 판정할 수 있습니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:58AM</span><span class="by">야청:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>관찰력</caption>
@@ -994,7 +994,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">곧 골목을 돌아 사라져 버립니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 10:59AM</span><span class="by">야청:</span>방금 봤어? 이상한 인간.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1003,7 +1003,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">여기 인간들은 다 이상하지 않아요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:00AM</span><span class="by">야청:</span>다 이러고 있으면 이게 정상일지도... 아니, 이게 중요한 건 아니고.</div>
 <div class="general ch-야청 msg">일단 쟤는 어쩔 거야. (학생 쳐다본다. 아직 살아있나?)</div>
 <div class="desc msg">
@@ -1015,7 +1015,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:02AM</span><span class="by">타이:</span>건물 안으로 옮기는 게 좋을 것 같아요... 못해도 안에는 꽃잎이 없겠죠.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:03AM</span><span class="by">야청:</span>인명구조에 취미 없는데 참... 일단 던져두자.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1029,7 +1029,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">약사는 머리에 화관을 쓰고 물감으로 벽에 비둘기 그림을 그리고 있긴 하지만요.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:05AM</span><span class="by">야청:</span>나한테 아직도 그 정도의 기대를 하고 있었어?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1040,7 +1040,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">타이가 약사에게 말을 걸어도, 봄 향기에 죽는다니, 이렇게 낭만적일 데가! 라며 헛소리를 할 뿐입니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:06AM</span><span class="by">야청:</span>음, 미쳤네.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1084,7 +1084,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">그리고 야청과 타이를 한 번에 꼬옥 안아줍니다. </span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:08AM</span><span class="by">야청:</span>내게 정의감이 생긴다면 확실히 미친 거긴 하겠는데... (모든 과정을 그저 구경했...다가 포옹 받았다.)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -1105,7 +1105,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:09AM</span><span class="by">코라:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">아아니</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:09AM</span><span class="by">야청:</span>
 <div class="sheet-rolltemplate-coc-1">
 <table data-ke-align="alignLeft"><caption>정신</caption>
@@ -1157,7 +1157,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">&hellip;감화된 건 아니겠죠?</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:11AM</span><span class="by">야청:</span>너 눈이 좀 이상한데. 똑바로 떠.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1180,7 +1180,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">부드럽게 몰아치는 낭만은 곧 세상을 집어삼킬 것이고, 위로 올라가지 않으면 질식하고 말 겁니다. </span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:14AM</span><span class="by">야청:</span>(갸웃거렸다가 밖에 본다.) 진짜 황당하네...</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -1215,7 +1215,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:15AM</span><span class="by">타이:</span>보셨어요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:15AM</span><span class="by">야청:</span>방금 그게 진짜라고?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1229,7 +1229,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">그리고 2층 계단으로 당신을 데리고 올라갑니다. 그가 뛰기 시작합니다. </span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:16AM</span><span class="by">야청:</span>차라리 미치는 게 마음은 편하겠어.</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -1261,7 +1261,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">이때 광활한 하늘을 배경으로 뒤를 돌아보는 타이의 눈동자가 햇빛을 받아 반짝입니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:17AM</span><span class="by">야청:</span>이게 꿈이라면 즐겁다고 해줄 수 있겠는데...</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -1288,7 +1288,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:18AM</span><span class="by">이르 (GM):</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">미치고신난트칸타 시작!!</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:20AM</span><span class="by">야청:</span>(잡고 있던 반대 손으로 멱살을 잡고 당겼다.) 미쳤어?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1330,7 +1330,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:22AM</span><span class="by">타이:</span>같이 달로 가요!</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:22AM</span><span class="by">야청:</span>춤은 무슨. 저것 좀... 뭐?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1380,7 +1380,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">정말 저 수상한 곳에 가야만 한다면, 무언가 바꿀 수 있는 것은 이제 당신뿐일 겁니다. </span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:26AM</span><span class="by">야청:</span>달에 가는 건 좋아. 좋은데... 어떻게 갈 건데?</div>
 <div class="general ch-코라 msg">
 <div class="spacer">&nbsp;</div>
@@ -1392,7 +1392,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:26AM</span><span class="by">타이:</span>물론, 날아서요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:26AM</span><span class="by">야청:</span>보통 사람은 못 날아.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1401,7 +1401,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">저희가 보통 사람은 아니잖아요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:28AM</span><span class="by">야청:</span>그런 말 아닌 거 알잖아. 아, 정말이지...</div>
 <div class="general ch-야청 msg">그래. 춤 추자.</div>
 <div class="general you ch-타이 msg">
@@ -1425,7 +1425,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">도저히 받아들이기 힘들다면 날아가면서 이성 판정(0/1) ...</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:31AM</span><span class="by">야청:</span>(이 황당한 상황에 몸이 벅찬 건지 머리가 벅찬 건지 이젠 알 수가 없다...)</div>
 <div class="general ch-야청 msg">
 <div class="sheet-rolltemplate-coc-1">
@@ -1497,7 +1497,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">달에서 살아도 되겠는 걸요. 이대로 지구가 꽃잎에 파묻힌다면...</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:35AM</span><span class="by">야청:</span>그런 평화로운 순간이 다시 온다면 말이지...</div>
 <div class="general ch-야청 msg">여기서 단둘이 뭐 하자고?</div>
 <div class="general you ch-타이 msg">
@@ -1506,7 +1506,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:35AM</span><span class="by">타이:</span>같이 살까요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:36AM</span><span class="by">야청:</span>그거야 원래도 했었고.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1517,7 +1517,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">괜찮은 것 같아요. 그렇지 않아요? 낭만적이잖아요...</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:38AM</span><span class="by">야청:</span>글쎄. 일단 여기서 너랑 오순도순 잘 살 자신 없는데...</div>
 <div class="general ch-야청 msg">언제부터 그렇게 낭만적인 사람이었다고?</div>
 <div class="general you ch-타이 msg">
@@ -1526,7 +1526,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:39AM</span><span class="by">타이:</span>글쎄요. 그런 게 중요해요? 저는 당신이랑 오순도순 살 자신 있는데.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:41AM</span><span class="by">야청:</span>너무 한 사람만 좋은 일 같지 않아?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1534,7 +1534,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:42AM</span><span class="by">타이:</span>선배는 좋지 않아요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:44AM</span><span class="by">야청:</span>반문하지 말고. 어떤 부분이 좋은 건지 설득을 해야지.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1556,7 +1556,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:46AM</span><span class="by">코라:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">ㅋㅋㅋㅋㅋㅋㅋㅋㅋ</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:48AM</span><span class="by">야청:</span>(얼굴을 가까이 대더니... 딱밤 때린다.) 넌 원래 내 거잖아.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1566,7 +1566,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">선배만 있으면 어떻게 되든 괜찮을 거예요, 저는요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:50AM</span><span class="by">야청:</span>나는 네가 바보같이 구는 걸 귀엽다고 해줄 수는 있지만, 달에서 평생 살 수 있을 정도는 아니야.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1574,7 +1574,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:51AM</span><span class="by">타이:</span>저 귀여워요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:52AM</span><span class="by">야청:</span>가끔?</div>
 <div class="general ch-야청 msg">귀염둥이라고도 해주잖아.</div>
 <div class="general you ch-타이 msg">
@@ -1583,7 +1583,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 11:53AM</span><span class="by">타이:</span>지금은요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 11:54AM</span><span class="by">야청:</span>귀여운 짓을 해야 그렇다고 해주지?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1593,7 +1593,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">키스하고 싶은 기분이에요. 그 정도만큼만 귀여워해 주세요. 안 돼요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 12:04PM</span><span class="by">야청:</span>달까지 온 기념으로 특별히 알려줄까? 내가 귀엽다고 생각할 때는 말이지...</div>
 <div class="general ch-야청 msg">(눈두덩에서 시작해 손가락으로 얼굴을 훑어내렸다. 볼을 따라 턱까지 천천히.) 네가 나한테 잘 보이려고 애쓸 때야.</div>
 <div class="general ch-야청 msg">그럼 지금 나는, 네 질문에 뭐라고 답할 것 같아?</div>
@@ -1617,7 +1617,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 12:14PM</span><span class="by">이르 (GM):</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">네!!</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 12:18PM</span><span class="by">야청:</span>(다가온 상대의 눈을 바라보면, 스스로가 비친다. 이렇게 가까이에 있는 상황에서 할 말이 더 있을까? 물론, 어쩐지 웃음이 나오는 건 어쩔 수 없다.) 마음대로 해봐. 혹시 모르지. 나도 낭만적인 감상이 들면 마음을 바꿀 수도 있고...</div>
 <div class="general you ch-이르 msg">
 <div class="spacer">&nbsp;</div>
@@ -1675,7 +1675,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 12:28PM</span><span class="by">이르 (GM):</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">그러게요 예상못한일인데어떡하지</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 12:34PM</span><span class="by">야청:</span>(비강을 가득 채운 꽃향기 때문에, 꼭 꽃에 입을 맞춘 기분이다. 숨이 떨어지는 순간 아랫입술을 살짝 베어 물며 웃었다.) 물론 그래야지. 난 네가 벗어나는 걸 허락할 생각이 없거든.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1683,7 +1683,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 12:41PM</span><span class="by">타이:</span>(코 끝이 닿은 거리. 붉게 열감이 올라온 볼, 일렁일렁 당신 눈동자 색이 비친 금잔화색 눈. 고개를 살짝 돌려 당신의 볼에 한 번 더 입맞춘다. 개화한 꽃의 향기를 맡듯이 가볍고, 호흡만큼 길게.) 허락하시면 서운할 거예요. 벗어날 생각 없거든요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 12:51PM</span><span class="by">야청:</span>왜 볼에 해? (살짝 물러나면 그렇게 말하는 것이다. 그러고는 혀를 내밀어 당신의 아랫입술을 슬쩍 핥았다. 아쉬운 것 같기도 하고, 그저 장난 같기도 하고...) 말은 쉽지. 그래도 가끔은 네가 어디까지 할 수 있을까 궁금하긴 해.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1691,7 +1691,7 @@ div.tcc .msg { }
 <span class="tstamp">September 07, 2025 12:57PM</span><span class="by">타이:</span>눈길 닿는 곳마다 온통 입맞추고 싶은데 그럴 수는 없잖아요... 아니면, 허락하시나요? (슬쩍 미소짓는다. 어느 쪽이라도 좋을 것이다. 아쉽다면 허락할 테고, 장난이라면 기분이 좋다는 의미일 테니까.) 그래서 행동으로 증명하려고 노력하고 있는 걸요. 어디까지 해야 증명할 수 있을까요? 어디까지 하길 바라세요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 1:07PM</span><span class="by">야청:</span>3번까지는 허락해 줄게. 잘 골라서 해봐. (반 걸음 물러난다. 얼굴이 멀어지면, 다른 곳은 더 쉽게 눈에 담긴다.) 그러게. 그렇지만 어쩔 수 없어. 난 아주 철저한 현실주의자라고 생각했는데, 요즘엔 말도 안되는 걸 바라고 싶어져. 그래서 네가 뭘 해도 부족하다고 느끼게 되지...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1700,7 +1700,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">저는 이미 말도 안 되는 걸 바라고 있는데... 할 수 있을 거라는 생각이 들어요. 오늘따라 유독 그러네요. 당신이 사랑스럽고, 사랑하고 싶고, 사랑받고 싶고. 그러니 계속 증명할 거예요, 계속 귀여워해 줘요. 바보같고 모자란 모습을 당신이 귀여워한다면 그런 사람이 되어도 상관없어요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 1:27PM</span><span class="by">야청:</span>(세 번의 입맞춤을 하는 동안 야청은 가만히 지켜보았다. 언제나처럼 딱딱한 표정도 아니고, 늘 걸고 다니는 삐딱한 웃음도 아니고, 그냥 웃는 채로. 순수하게 즐거워 보이기도 했고, 기대되는 일을 목전에 둔 아이 같기도 하다. 그런 것과 정말 어울리지 않는 사람인데. 느릿하게 움직이던 시선이 비스듬하게 내려다본다.) 그런 것치고는 망설임이 없네.</div>
 <div class="general ch-야청 msg">나한테 사랑받고 싶으면, 네 전부를 줘야 할걸...</div>
 <div class="general ch-야청 msg">네가 생각하지 못했던 것까지도.</div>
@@ -1711,7 +1711,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">내가 가진 것은 나 자신밖에 없고, 드릴 수 있는 것도 이것뿐이에요. 이미 드릴 수 있는 건 전부 드렸다고 생각했는데, 아직은 모자라나요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 1:51PM</span><span class="by">야청:</span>그야 네가 고민하는 표정을 보고 싶었거든. 이유까지 술술 나오는 건 좀 신기한데... 항상 그런 생각을 하고 살았어?</div>
 <div class="general ch-야청 msg">어차피 내가 원하는 것도 그냥 너야. 네가 가진 거 없는 건 나도 다 아는데 뭘 새삼스럽게... 그래도, 전부 가졌어도 가끔 확인은 하고 살아야지. 네가 날 얼마나 사랑하는지 보여달라고 할 수는 없잖아.</div>
 <div class="general you ch-타이 msg">
@@ -1721,7 +1721,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">보여달라고 하신다면 최선은 다하겠지만 막막하긴 하네요. 그래도, 보여드릴 수 없어도, 여전히 당신의 타이예요. 당신의 타이일 거고요. 얼마든지 확인하세요, 그렇게 해야 마음이 편하시다면요. (고개 살짝 저으며 맞닿은 이마를 문지른다.)</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 2:14PM</span><span class="by">야청:</span>미묘한 부분에서 민망해하네. 그런데 나름 자주 해줬다고 생각했는데? (아마 사흘에 한 번일 것이다...)</div>
 <div class="general ch-야청 msg">(두 손으로 양 뺨을 감싸 쥐고 가볍게 당기면 입술을 맞닿는다.) 그럼 지금 보여줘 봐, 얼마나 사랑하는지. 그렇다면 어느 정도는 믿어줄게...</div>
 <div class="general you ch-타이 msg">
@@ -1731,7 +1731,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">(꽉 끌어안는다. <i>두근두근</i>, 들뜬 박동이 신체와 옷을 건너 전도된다. 어깨에 고개를 묻는다.)</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 07, 2025 2:40PM</span><span class="by">야청:</span>(물리면 살짝 눈이 가늘어진다. 그리고 당연하다는 듯이 저도 깨물었다.) 생각은 네 자유인데 상관없지 않나? 일단 나는 그렇거든. 내가 뭘 생각하든 어차피 넌 모르는걸. (감싸 쥔 볼 아래가 평소보다 따듯하다는 걸 깨달으면, 가볍게 쓰다듬어준다.) 그래서 싫어? 아니잖아. 다음은 있을 수도 있고, 없을 수도 있지. 네가 귀엽게 구는 거에 달렸으니까...</div>
 <div class="general ch-야청 msg">(품에 안겨져도 당황스럽기보다는, 그저 모든 게 자연스럽게 느껴진다. 따듯한 체온과 들뜬 박동까지 전부... 고개를 기울여 편하게 기댄다.)</div>
 <div class="general you ch-타이 msg">
@@ -1835,7 +1835,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 12:35PM</span><span class="by">코라:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">ㅠㅠㅠㅠ</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 12:38PM</span><span class="by">야청:</span>자제했던 거였어? 전혀 몰랐는데. 분위기 깨는 말일 텐데도 듣고 싶어? (어디까지나 놀리는 투다. 한 손이 떨어지면 남은 손은 자연스럽게 내려와 턱을 그러쥔다.) 귀여워 보이면 매번 입 맞춰주고 예뻐해 달라는 거야? 참 신기하네... 그렇게 내가 좋아?</div>
 <div class="general ch-야청 msg">정말 뻔한 말인데도, 네가 사랑한다고 하면 가끔은 무슨 뜻인지 전혀 모르겠더라...</div>
 <div class="general you ch-타이 msg">
@@ -1845,7 +1845,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">선배가 분위기 깨는 말 하신 게 한 두번도 아닌데요, 뭘. 궁금해요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 12:57PM</span><span class="by">야청:</span>내가 뭘 몰라줬는데? (알면서 묻는 건지 진짜 모르는 건지...) 그럼 내가 뭘 하든 상관없어? 넌 정말 내가 뭘 해도 좋아할 것처럼 굴어서 참 신기하고, 그래서 더 네 말이 이상하고... 믿으면 안 될 것처럼 느껴져.</div>
 <div class="general ch-야청 msg">(황당하다는 듯이 고개를 살짝 갸웃거렸다.) 듣고 싶은 사람의 태도가 아닌데?</div>
 <div class="general you ch-타이 msg">
@@ -1855,7 +1855,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">듣고 싶은데... 분위기 깬다거나 하는 건 상관 없다는 뜻이에요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 1:21PM</span><span class="by">야청:</span>그건 다행이네. 왜냐하면 싫은 일도 나 때문에 견딘 거라는 데에서 의미가 있는 거니까. 그런데 말이야, 사람 마음이란 게 늘 같은 쪽으로만 움직이진 않잖아. 기대라는 게 결국엔 시간과 함께 닳는 거고, 견딜 수 있는 것도 언젠간 이유를 바꾸게 될지 모르는 거고...</div>
 <div class="general ch-야청 msg">그런데 다 알면서도 널 믿고 싶어져서, 그래서 가끔은, 네가 당장 날 공격하거나 배신해도 어쩔 수 없을 것 같다는 생각을 해.</div>
 <div class="general you ch-타이 msg">
@@ -1865,7 +1865,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">그런 건 의미가 없다고 생각하시나요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 1:44PM</span><span class="by">야청:</span>너는 결국 나한테 돌아온다고... 확신할 수 있어? 너도 네가 어떻게 바뀔지 알 수 없으면서. 사람이란 한순간에 뒤집히기도 하고, 아무도 모르는 예외 하나 때문에 다 달라지기도 하는데 말이야. 닳고 마모돼도, 마지막에 남는 게 나일 거라고&mdash; 정말 그렇게 믿으라고?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1875,7 +1875,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">그런 걸 믿어줄 수는 없어요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:09PM</span><span class="by">야청:</span>그게 얼마나 오래갈지, 네가 말한 대로 될지 나는 전혀 확신할 수 없어. 사람 마음이란 게 얼마나 잘 바뀌는지, 얼마나 쉽게 무너질 수 있는지 나는 질릴 만큼 봤거든. 내가 그렇게 만들기도 했지. 그래서 네 말이 지금처럼만 남을 거라 믿는 건&hellip; 정말 말도 안 되지.</div>
 <div class="general ch-야청 msg">그런데도 믿게 되는 순간이 있어. 믿지 않으면 안 될 것처럼 만들어버리는 사람이 있고, 네가 아마 그쪽에 속하는 모양이야. 내가 말해놓고도 우습지만, 널 믿고 싶어지는 순간이 있는 건 사실이니까...</div>
 <div class="general ch-야청 msg">(턱을 당겨 살짝 깨물고는 아무 일 없었다는 듯 금세 놓아줬다.) 그러니까 앞으로 계속해서 증명해봐. 말만 믿긴 좀 그렇잖아.</div>
@@ -1888,7 +1888,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">슬슬 달의 집에는 누가 살고있는지 확인해 볼래요? 우리 이웃이 될지도 모르잖아요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:25PM</span><span class="by">야청:</span>대신 내가 믿어준 순간부터는 네가 스스로 던진 약속에 묶이는 거니까. 후회하더라도 책임은 언제나 네 쪽이야...</div>
 <div class="general ch-야청 msg">그런데 이 와중에 그런 걸 신경 쓰고 있었다고 생각하니까 조금 열받네.</div>
 <div class="general ch-야청 msg">누가 살긴 하는 거야?</div>
@@ -1911,7 +1911,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">라디오에서는 바트 하워드의 재즈, 'Fly Me to the Moon'이 재생되고 있습니다. </span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:29PM</span><span class="by">야청:</span>생활감이 아주 넘치네...</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -1922,7 +1922,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:30PM</span><span class="by">타이:</span>집안일을 잘 못하시나보다.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:30PM</span><span class="by">야청:</span>(거실 둘러본다. 얼마나 더러운가...)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -1938,7 +1938,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class=""> 장미는 유리 돔 안에서 피고 지기를 반복합니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:31PM</span><span class="by">야청:</span>(더러운 수준이 아니네...)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -1952,7 +1952,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">돔 옆에는 누군가가 써 둔 듯한 편지가 놓여 있습니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:32PM</span><span class="by">야청:</span>설마 얘가 지구에 식물성 쓰레기를 무한으로 제공하는 건가?</div>
 <div class="general ch-야청 msg">(편지 본다)</div>
 <div class="desc msg">
@@ -1964,7 +1964,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:34PM</span><span class="by">타이:</span>고작 한 송이에 세상이 뒤덮인 거라곤 상상도 못하긴 했네요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:34PM</span><span class="by">야청:</span>신파극을 찍을 거면 혼자 하던가... (감수성이 메마른 사람)</div>
 <div class="general ch-야청 msg">(일단 장미는 두고... 방을 살펴보러 간다)</div>
 <div class="desc msg">
@@ -1982,14 +1982,14 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:37PM</span><span class="by">타이:</span>내버려두면 죽겠는데요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:38PM</span><span class="by">야청:</span>살아있긴 하고? (근처에 다가가 생사 여부 확인한다.)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">아직 얕게 숨을 쉬고 있기는 합니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:39PM</span><span class="by">야청:</span>달까지 와서 또 인명구조를 해야 한다니...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -1997,7 +1997,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:39PM</span><span class="by">타이:</span>하하하.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:40PM</span><span class="by">야청:</span>죽고 싶으셨던 모양인데 이걸 굳이 살려야 하나 싶기도 하고...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2005,7 +2005,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:40PM</span><span class="by">타이:</span>사태를 수습할 방법 정도는 알려주고 죽으라 할까요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:41PM</span><span class="by">야청:</span>그거 괜찮네.</div>
 <div class="general ch-코라 msg">
 <div class="spacer">&nbsp;</div>
@@ -2020,7 +2020,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:41PM</span><span class="by">이르 (GM):</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">푸하하하</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:42PM</span><span class="by">야청:</span>(타인에게 처치를 해본 적이 있나... 일단 뭔가 해본다...)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -2031,7 +2031,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:43PM</span><span class="by">여성:</span> &hellip;어떻게 여기까지 왔지.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:43PM</span><span class="by">야청:</span>그게 제일 궁금해?</div>
 <div class="general you ch-여성 msg">
 <div class="spacer">&nbsp;</div>
@@ -2040,7 +2040,7 @@ div.tcc .msg { }
 <div class="general you ch-여성 msg">방법은 상관없어. 이제 세상이 끝나는 것도 머잖았을 테지&hellip;.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:46PM</span><span class="by">야청:</span>세상 모든 일엔 늘 돌연변이가 끼어들기 마련이야.</div>
 <div class="general ch-야청 msg">그건 좀 곤란한데?</div>
 <div class="general you ch-여성 msg">
@@ -2049,7 +2049,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:47PM</span><span class="by">여성:</span> 세상을 원래대로 돌리고 싶은가? 낭만적인 끝을 맞이할 수 있는데도?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:48PM</span><span class="by">야청:</span>딱히 꽃잎에서 허우적거리다가 죽고 싶은 사람은 없을걸.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2057,7 +2057,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:49PM</span><span class="by">타이:</span>다들 즐거워보이긴 했지만요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:50PM</span><span class="by">야청:</span>그거야 미친 거고...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2065,7 +2065,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:51PM</span><span class="by">타이:</span>뭐, 그건 그래요. 하지만 미쳐있는 상태로 죽어가는 거니까 다들 불행하진 않겠죠.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:52PM</span><span class="by">야청:</span>중요한 건 우리가 제정신이라는 거지.</div>
 <div class="general ch-야청 msg">너 저렇게 죽고 싶어?</div>
 <div class="general you ch-타이 msg">
@@ -2082,7 +2082,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:53PM</span><span class="by">코라:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">아맞다</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:54PM</span><span class="by">야청:</span>하... (한 대 때렸다.)</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2090,7 +2090,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:54PM</span><span class="by">타이:</span>아야.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:54PM</span><span class="by">야청:</span>아무튼 나는 제정신이고, 아직 죽고 싶은 생각이 없어서 협조해 줬으면 좋겠네?</div>
 <div class="general you ch-여성 msg">
 <div class="spacer">&nbsp;</div>
@@ -2100,7 +2100,7 @@ div.tcc .msg { }
 <div class="general you ch-여성 msg">하지만&hellip; 의식을 위해 만들어진 이 달은 무너지고, 당신은 추락할 거야.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:55PM</span><span class="by">야청:</span>생각보다 간단하네...</div>
 <div class="general ch-야청 msg">뭐?</div>
 <div class="general you ch-여성 msg">
@@ -2111,7 +2111,7 @@ div.tcc .msg { }
 <div class="general you ch-여성 msg">그게 이 빌어먹을 세상을 낭만적으로 끝낼 수 있는 마지막 방법이니까.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 2:57PM</span><span class="by">야청:</span>딱히 그런 대의는 없는데. 저쪽이 망하면 얘랑 나는 노숙자이자 실업자가 되는 게 곤란한 거야...</div>
 <div class="general you ch-여성 msg">
 <div class="spacer">&nbsp;</div>
@@ -2119,7 +2119,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 2:59PM</span><span class="by">여성:</span> 죽으면 노숙이고 실업이고 무의미하지.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 3:01PM</span><span class="by">야청:</span>그래그래, 자살 희망자씨. 근데 난 더 살고 싶은 거라니까.</div>
 <div class="general ch-코라 msg">
 <div class="spacer">&nbsp;</div>
@@ -2137,7 +2137,7 @@ div.tcc .msg { }
 <a style="text-decoration: none; display: block; text-align: center; font-size: 12px; font-style: normal; color: #434343; background-color: #f4cccc; padding: 2px;" href="https://youtu.be/8ya9EhvcNsA ">OMORI - Final Duet</a></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 3:02PM</span><span class="by">야청:</span>(일단 미친 자는 내버려두고... 거실의 장미로 돌아간다)</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -2157,7 +2157,7 @@ div.tcc .msg { }
 <span class="tstamp">September 10, 2025 3:04PM</span><span class="by">타이:</span>선배, 뛰어내리는 게 무서워요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">September 10, 2025 3:05PM</span><span class="by">야청:</span>다들 착각하곤 하는데, 나도 두려움이라는 걸 느껴.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2172,7 +2172,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">이 자식도 미쳐버렸다는 확신이.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:07PM</span><span class="by">야청:</span>그런 눈으로 그런 이야기하니까, 정말, 그냥 미친 거 같네...</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -2207,7 +2207,7 @@ div.tcc .msg { }
 <span class="tstamp">3:09PM</span><span class="by">타이:</span>꽃을 꺾고 제 손을 잡아요. 낭만이 사라지기 전에 지상으로 데려다드릴게요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:09PM</span><span class="by">야청:</span>널 믿고 죽을지도 모르려는 선택을 할 참인데, 정말 믿음직스럽네...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2215,7 +2215,7 @@ div.tcc .msg { }
 <span class="tstamp">3:10PM</span><span class="by">타이:</span>저는 진심인 걸요?</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:11PM</span><span class="by">야청:</span>어떤 부분이?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2223,7 +2223,7 @@ div.tcc .msg { }
 <span class="tstamp">3:11PM</span><span class="by">타이:</span>우리 둘 다 살아서 돌아갈 수 있을 거라는, 낭만에 대한 믿음이요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:12PM</span><span class="by">야청:</span>진짜 그놈의 낭만.</div>
 <div class="general ch-야청 msg">(장미를 꺾기 전에 한 번 조심스럽게 만져본다. 무슨 느낌인지...)</div>
 <div class="desc msg">
@@ -2234,7 +2234,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">줄기는 선명한 녹색입니다. 가시는 없습니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:14PM</span><span class="by">야청:</span>생각보다 정말, 평범하네.</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2242,7 +2242,7 @@ div.tcc .msg { }
 <span class="tstamp">3:15PM</span><span class="by">타이:</span>그런 게 낭만적인 거겠죠... (멜로눈깔)</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:16PM</span><span class="by">야청:</span>(장미를 쥔 채로 시선을 돌려 타이를 봤다가... 황당하다는 듯이 웃으며, 그대로 꺾었다.)</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2250,7 +2250,7 @@ div.tcc .msg { }
 <span class="tstamp">3:17PM</span><span class="by">타이:</span>이제 손을 잡아요!</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:17PM</span><span class="by">야청:</span>그래. 잘 부탁한다고 해야 하나...</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -2304,7 +2304,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; color: inherit; font-style: normal; margin-left: -30px;" class="">펑! </span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:21PM</span><span class="by">야청:</span>이미 네가 끌어안고 있으면서.</div>
 <div class="general ch-코라 msg">
 <div class="spacer">&nbsp;</div>
@@ -2337,7 +2337,7 @@ div.tcc .msg { }
 <span style="text-decoration: none; font-style: normal; color: #333333;" class="">그 순간, 꽃송이는 흩어져 사라집니다. 세상을 뒤덮은 꽃잎 또한 천천히 흩날리듯 자취를 감춥니다.</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:23PM</span><span class="by">야청:</span>그 말은 이제 금지야.</div>
 <div class="desc msg">
 <div class="spacer">&nbsp;</div>
@@ -2348,7 +2348,7 @@ div.tcc .msg { }
 <span class="tstamp">3:24PM</span><span class="by">타이:</span>어&hellip; 이상하게 낭만 타령을 많이 하긴 했네요.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:25PM</span><span class="by">야청:</span>이제 좀 덜 미친 상태가 된 건가? (빤히...)</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2357,7 +2357,7 @@ div.tcc .msg { }
 <div class="general you ch-타이 msg">좀 많이...</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:25PM</span><span class="by">야청:</span>굉장히 새삼스러운데?</div>
 <div class="general ch-코라 msg">
 <div class="spacer">&nbsp;</div>
@@ -2377,7 +2377,7 @@ div.tcc .msg { }
 <span class="tstamp">3:26PM</span><span class="by">코라:</span><span style="opacity: 0.6; text-decoration: none; font-style: normal; color: #333333;" class="">아 ㅋ ㅋㅋㅋㅋㅋ</span></div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:27PM</span><span class="by">야청:</span>그렇긴 한데... 네가 그렇게 생각하고 있었다는 점에서, 평소에 늘 그랬다는 거잖아?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2385,7 +2385,7 @@ div.tcc .msg { }
 <span class="tstamp">3:28PM</span><span class="by">타이:</span>아니이... 그런 생각을 하긴 하지만요, 늘 대놓고 그러진 않죠.</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:29PM</span><span class="by">야청:</span>그래서 귀엽게 굴 생각이 사라지셨나?</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
@@ -2393,7 +2393,7 @@ div.tcc .msg { }
 <span class="tstamp">3:29PM</span><span class="by">타이:</span>전혀요!</div>
 <div class="general ch-야청 msg">
 <div class="spacer">&nbsp;</div>
-<div class="avatar"><img src="/assets/img/야청_두상1.png" /></div>
+<div class="avatar"><img src="/assets/img/general/야청_두상1.png" /></div>
 <span class="tstamp">3:29PM</span><span class="by">야청:</span>이건 또 당당하네...</div>
 <div class="general you ch-타이 msg">
 <div class="spacer">&nbsp;</div>
