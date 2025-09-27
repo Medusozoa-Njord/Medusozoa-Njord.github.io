@@ -1,32 +1,17 @@
 # Trpg 로그 백업용 블로그 만들기
-**feat. Beautiful Jekyll**
-
-본 내용은 Beautiful Jekyll 테마를 이용하여 만들고 있습니다.
-
-Beautiful Jekyll은 MIT 라이선스를 가진 프로젝트로, 변경과 재배포가 허용되어 있습니다.
-
-Beautiful Jekyll 테마에 대한 자세한 정보를 알고 싶은 분은 [원본 프로젝트 페이지](https://github.com/daattali/beautiful-jekyll)로 이동해 주세요.  
-
-
-+ [배포 포스트](https://posty.pe/3f0nfm) 에서 Roll20 로그 백업법을 간략히 확인하실 수 있을 겁니다.
+[Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll)
+[배포 포스트](https://posty.pe/3f0nfm)
 
 
 ## 5분만에 따라할 수 있는 설정 변경하기
 
-### 1. _config.yml 파일에 들어가기
+### _config.yml 파일에 들어가기
 
 파일에 들어가서 연필모양 아이콘을 누른 후 'My title' 이라고 써있는 부분을 찾습니다.
 
-### 2. 블로그 제목 변경하기
-제목을 원하는 문구로 저장합니다.
-
-### 3. 블로그 아바타 변경하기
-asset->img 폴더 안에 원하는 사진을 업로드한 후, 해당 파일 페이지에서 우측 상단의 '...' 모양 아이콘 누르고 'Copy path' 클릭하면 경로가 복사됩니다.  
-
+### 블로그 아바타 변경하기
+asset->img 폴더 안에 원하는 사진을 업로드한 후, 해당 파일 페이지에서 우측 상단의 '...' 모양 아이콘 누르고 'Copy path' 클릭하면 경로가 복사됩니다.
 그 경로를 _config.yml 파일 안에 있는 'avatar' 문구 옆에 붙여넣으면 끝!
-
-### 4. 기타 설정 변경하기
-파일 안의 '#' 에 있는 설명을 읽고 조절하세요.
 
 ## 5분만에 따라하는 포스팅하기
 
@@ -35,12 +20,10 @@ asset->img 폴더 안에 원하는 사진을 업로드한 후, 해당 파일 페
 ### 2. 파일 복사, 수정, 저장하기
 공개 포스팅, 숨김 포스팅, 암호화 html 포스팅의 샘플 파일이 각각 들어있습니다.
 
-encrypted_hidden -> 암호화& 숨김 포스트  
-encrypted_open -> 암호화& 공개 포스트  
+encrypted_hidden -> 암호화&숨김 포스트  
+encrypted_open -> 암호화&공개 포스트  
 hidden_testlog -> 숨김 포스트  
 open_testlog -> 공개 포스트  
-
-파일 안의 내용을 복사 -> Add file-> Create new file -> 에디터에 그대로 복붙 후 내용을 수정합니다.
 
 첨부할 html 파일은 반드시 '_posts/loghtml' 폴더에 넣고, 포스트의 {% include_relative loghtml/파일이름.html %} 부분에 로그 파일이름(.html로 끝나는거)을 적어넣어야 합니다.  
 
@@ -69,19 +52,14 @@ html 파일 이름은 되도록이면 **영어로 띄어쓰기 없이** 저장�
 그럴 때에는 시크릿 모드로 창을 열어서 접속해봅시다.
 
 
-## 파라미터 설명
-
+## 파라미터
 모든 .md(마크다운) 문서의 맨 상단에는 반드시 YAML ( --- 로 둘러싸인 부분) 을 설정해야 합니다.
-
-YAML에서 사용할 수 있는 파라미터 목록을 간단히 정리했습니다.
 
 - layout: 페이지 레이아웃을 설정합니다. post / page / minimal 의 세 종류가 있으며, 암호화 파일의 경우 minimal 로 설정하지 않으면 레이아웃이 깨집니다.
 - title: 포스트의 제목으로 표시할 문자입니다.
 - subtitle: 포스트의 부제목으로 표시할 문자입니다.
 - draft: 숨김 포스트로 설정할지 여부에 관련된 설정입니다. 숨김 포스트로 발행하려면 draft: true 로 설정해주세요.
 - tag: 포스트의 태그를 설정합니다. tag: [원하는 태그1, 원하는 태그2] 의 형식으로 설정합니다.
-
-
 
 ## 참조
 - [HTML 의 기초 배우기 (TCP school)](http://tcpschool.com/html/intro)
