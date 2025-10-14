@@ -2,9 +2,9 @@
 layout: post 
 title: Hold Your Breath
 subtitle: 이르얀 & 아트로포스 
-cover-img: /assets/img/_card/홀유브_세카.png
-thumbnail-img: /assets/img/_card/홀유브_세카.png
-share-img: /assets/img/_card/홀유브_세카.png
+cover-img: /assets/img/Card/홀유브_세카.png
+thumbnail-img: /assets/img/Card/홀유브_세카.png
+share-img: /assets/img/Card/홀유브_세카.png
 tags: [모이라]
 ---
 
