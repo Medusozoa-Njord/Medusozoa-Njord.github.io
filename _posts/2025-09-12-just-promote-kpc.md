@@ -2,9 +2,9 @@
 layout: post 
 title: 그저 판촉 상대가 KPC
 subtitle: 트란 카인 타이 & 라온유 
-cover-img: /assets/img/_card/그저_판촉_상대가_kpc.jpg
-thumbnail-img: /assets/img/_card/그저_판촉_상대가_kpc.jpg
-share-img: /assets/img/_card/그저_판촉_상대가_kpc.jpg
+cover-img: /assets/img/Card/그저_판촉_상대가_kpc.jpg
+thumbnail-img: /assets/img/Card/그저_판촉_상대가_kpc.jpg
+share-img: /assets/img/Card/그저_판촉_상대가_kpc.jpg
 tags: [굿나잇]
 ---
 <div>
