@@ -2,9 +2,9 @@
 layout: post 
 title: 그리고 그림자가 다가왔다
 subtitle: 이르얀 & 아트로포스 
-cover-img: /assets/img/_card/그그다_세카.jpg
-thumbnail-img: /assets/img/_card/그그다_세카.jpg
-share-img: /assets/img/_card/그그다_세카.jpg
+cover-img: /assets/img/Card/그그다_세카.jpg
+thumbnail-img: /assets/img/Card/그그다_세카.jpg
+share-img: /assets/img/Card/그그다_세카.jpg
 tags: [모이라]
 ---
 
