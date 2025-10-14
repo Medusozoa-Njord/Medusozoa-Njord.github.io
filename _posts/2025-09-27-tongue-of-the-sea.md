@@ -2,9 +2,9 @@
 layout: post 
 title: 바다의 혀
 subtitle: 이르얀 & 릴리아나 
-cover-img: /assets/img/_card/바다혀_세카.jpg
-thumbnail-img: /assets/img/_card/바다혀_세카.jpg
-share-img: /assets/img/_card/바다혀_세카.jpg
+cover-img: /assets/img/Card/바다혀_세카.jpg
+thumbnail-img: /assets/img/Card/바다혀_세카.jpg
+share-img: /assets/img/Card/바다혀_세카.jpg
 tags: [향수]
 ---
 <style>.tcc { display: block; }
