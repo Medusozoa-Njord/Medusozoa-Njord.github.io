@@ -2,9 +2,9 @@
 layout: post 
 title: 눈꽃축제 대작전!
 subtitle: PC1 아시아크 PC2 니에베 PC3 스네자나 
-cover-img: /assets/img/Card/
-thumbnail-img: /assets/img/Card/
-share-img: /assets/img/Card/
+cover-img: /assets/img/Card/눈꽃축제_세카.png
+thumbnail-img: /assets/img/Card/눈꽃축제_세카.png
+share-img: /assets/img/Card/눈꽃축제_세카.png
 tags:
 ---
 
