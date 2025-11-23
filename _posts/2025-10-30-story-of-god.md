@@ -1,3 +1,13 @@
+---
+layout: post 
+title: 신 이야기
+subtitle: 이르얀 & 아트로포스 
+cover-img: /assets/img/Card/
+thumbnail-img: /assets/img/Card/
+share-img: /assets/img/Card/
+tags: [모이라]
+---
+
 <style>.tcc { display: block; }
 .tcc .msg { padding-left: 45px; padding-right: 5px; padding-bottom: 6px; position: relative; box-sizing: border-box; line-height: 1.25em; }
 .tcc .msg .spacer { background-color: rgb(225, 225, 225); margin: 0px -5px 8px -45px; height: 1px; }
